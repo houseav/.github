@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL Badge">
 </p>
 
-![houseav](https://github.com/lucaimbalzano/houseav/assets/45575898/ef57b7f6-9478-456d-b9a7-4db7f43392ae)
+![houseav](./houseav_profile_preview.png)
 
 
 
